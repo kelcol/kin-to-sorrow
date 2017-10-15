@@ -1,24 +1,23 @@
-Kin To Sorrow
-
-    By Edna St. Vincent Millay
+# Kin To Sorrow
 
 
-        Am I kin to Sorrow,
-            That so oft
-        Falls the knocker of my door--
-            Neither loud nor soft,
-        But as long accustomed,
-            Under Sorrow's hand?
-        Marigolds around the step
-            And rosemary stand,
-        And then comes Sorrow--
-            And what does Sorrow care
-        For the rosemary
-            Or the marigolds there?
-        Am I kin to Sorrow?
-            Are we kin?
-        That so oft upon my door--
-            *Oh, come in*!
+Am I kin to **Sorrow**,  
+&ensp;&ensp;&ensp;&ensp;That so oft  
+Falls the knocker of my door--  
+&ensp;&ensp;&ensp;&ensp;Neither loud nor soft,  
+But as long accustomed,  
+&ensp;&ensp;&ensp;&ensp;Under **Sorrow**'s hand?  
+Marigolds around the step  
+&ensp;&ensp;&ensp;&ensp;And rosemary stand,  
+And then comes **Sorrow**--  
+&ensp;&ensp;&ensp;&ensp;And what does **Sorrow** care  
+For the rosemary  
+&ensp;&ensp;&ensp;&ensp;Or the marigolds there?  
+Am I kin to ~Sorrow~?  
+&ensp;&ensp;&ensp;&ensp;Are we kin?  
+That so oft upon my door--   
+&ensp;&ensp;&ensp;&ensp;\*Oh, come in\*!  
 
+-- *Edna St. Vincent Millay*
 
-http://www.public-domain-poetry.com/edna-st-vincent-millay/kin-to-sorrow-26274
+[http://www.public-domain-poetry.com/edna-st-vincent-millay/kin-to-sorrow-26274](http://www.public-domain-poetry.com/edna-st-vincent-millay/kin-to-sorrow-26274)

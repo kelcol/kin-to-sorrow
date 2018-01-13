@@ -13,7 +13,7 @@ And then comes **Sorrow**--
 &ensp;&ensp;&ensp;&ensp;And what does **Sorrow** care  
 For the rosemary  
 &ensp;&ensp;&ensp;&ensp;Or the marigolds there?  
-Am I kin to ~Sorrow~?  
+Am I kin to [~Sorrow~](https://daringfireball.net/linked/2015/11/05/markdown-strikethrough-slack)?  
 &ensp;&ensp;&ensp;&ensp;Are we kin?  
 That so oft upon my door--   
 &ensp;&ensp;&ensp;&ensp;\*Oh, come in\*!  
